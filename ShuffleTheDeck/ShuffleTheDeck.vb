@@ -2,7 +2,7 @@
 'Spring 2025
 'RCET2265
 'ShuffleTheDeck
-'Link
+'https://github.com/TheGoldenPorkchop/ShuffleTheDeck
 Option Strict On
 Option Explicit On
 
